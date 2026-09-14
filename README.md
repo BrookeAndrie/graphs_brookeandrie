@@ -5,8 +5,6 @@ Dijkstra's algorithm for finding the shortest paths from one source vertex to
 all reachable vertices in a weighted graph. As an additional graph algorithm,
 the package also includes breadth-first search (BFS).
 
-GitHub repository: https://github.com/brookeandrie/graphs_brookeandrie
-
 ## Requirements
 
 - Python 3.9 or newer
